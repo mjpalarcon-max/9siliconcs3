@@ -24,13 +24,13 @@ Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 | Sub-Problem | CT Skill | Proposed Solution |
 |---|---|---|
-1.Prolonged Decision-Making by Students	| Decomposition and Pattern Recognition | Decompose the menu into logical categories: Main Meals, Snacks, and Beverages. Deploy a digital menu board outside the outside the canteen and/or a mobile pre-order application 
+| Prolonged Decision-Making by Students	| Decomposition and Pattern Recognition | Decompose the menu into logical categories: Main Meals, Snacks, and Beverages. Deploy a digital menu board outside the outside the canteen and/or a mobile pre-order application |
 
-2. Manual Computation of Transactions | Abstraction and Algorithm Design | Implement an automated Point-of-Sale system with barcode or RFID scanning. The system will abstract the details of pricing and automatically execute an algorithm to compute totals and change. 
+| Manual Computation of Transactions | Abstraction and Algorithm Design | Implement an automated Point-of-Sale system with barcode or RFID scanning. The system will abstract the details of pricing and automatically execute an algorithm to compute totals and change. |
 
-3. Lack of Real-Time Inventory Tracking	| Data Collection and Data Analysis | Integrate an inventory database linked to the POS system. Each sale decrements stock count. The system will analyze sales data and trigger alerts when stock falls below a threshold. 
+| Lack of Real-Time Inventory Tracking	| Data Collection and Data Analysis | Integrate an inventory database linked to the POS system. Each sale decrements stock count. The system will analyze sales data and trigger alerts when stock falls below a threshold. |
 
-4.Inefficient Queue Management	| Algorithm Design and Simulation | Develop a digital queuing system that assigns sequential numbers and estimates waiting time based on average service rate. Students may receive notifications via a display screen or app. 
+| Inefficient Queue Management	| Algorithm Design and Simulation | Develop a digital queuing system that assigns sequential numbers and estimates waiting time based on average service rate. Students may receive notifications via a display screen or app. |
 
 
 

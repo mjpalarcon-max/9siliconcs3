@@ -1,7 +1,7 @@
 # Computer Science 3 Portfolio
 ## Student Information
-**Name:** Juan Dela Cruz
-**Section:** Magnesium
+**Name:** Myrla Janiela P. Alarcon
+**Section:** Silicon
 **School Year:** 2026-2027
 
 ---

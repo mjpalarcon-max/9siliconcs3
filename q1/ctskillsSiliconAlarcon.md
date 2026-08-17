@@ -32,7 +32,7 @@ For each sub-problem, apply CT skills:
 
 | Inefficient Queue Management	| Algorithm Design and Simulation | Develop a digital queuing system that assigns sequential numbers and estimates waiting time based on average service rate. Students may receive notifications via a display screen or app |
 
-
+---
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
  

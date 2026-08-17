@@ -30,7 +30,7 @@ For each sub-problem, apply CT skills:
 
 3. Lack of Real-Time Inventory Tracking	| Data Collection and Data Analysis | Integrate an inventory database linked to the POS system. Each sale decrements stock count. The system will analyze sales data and trigger alerts when stock falls below a threshold. 
 
-4.Inefficient Queue Management	| Algorithm Design and Simulation |Develop a digital queuing system that assigns sequential numbers and estimates waiting time based on average service rate. Students may receive notifications via a display screen or app. 
+4.Inefficient Queue Management	| Algorithm Design and Simulation | Develop a digital queuing system that assigns sequential numbers and estimates waiting time based on average service rate. Students may receive notifications via a display screen or app. 
 
 
 

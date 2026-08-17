@@ -22,7 +22,8 @@ Please list possible sub-problems:
 
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
-
+| Sub-Problem | CT Skill | Proposed Solution |
+|---|---|---|
 1.Prolonged Decision-Making by Students	| Decomposition and Pattern Recognition | Decompose the menu into logical categories: Main Meals, Snacks, and Beverages. Deploy a digital menu board outside the outside the canteen and/or a mobile pre-order application 
 
 2. Manual Computation of Transactions | Abstraction and Algorithm Design | Implement an automated Point-of-Sale system with barcode or RFID scanning. The system will abstract the details of pricing and automatically execute an algorithm to compute totals and change. 

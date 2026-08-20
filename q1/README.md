@@ -9,3 +9,5 @@
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/ctskillsSiliconAlarcon.md)
+
+[View my Chinese Zodiac](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/zodiacSiliconLN.md)

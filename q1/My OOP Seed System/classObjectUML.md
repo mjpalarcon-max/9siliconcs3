@@ -20,3 +20,5 @@ The `StudySession` class represents a scheduled study session that a student can
 | startSession()                         | Starts the study session and marks it as active.  |
 | markCompleted()                        | Marks the study session as completed.             |
 | extendDuration(additionalMinutes: int) | Adds extra minutes to the planned study duration. |
+
+![Class Diagram](./images/classDiagram.png)

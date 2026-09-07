@@ -27,12 +27,12 @@ The `StudySession` class represents a scheduled study session that a student can
 
 ### Why did you choose this class?
 
-I chose the `StudySession` class because studying is an important part of a student's daily routine. This class can help organize study time and keep track of whether a planned session has been completed.
+I chose the "StudySession" class because studying is an important part of a student's daily routine. This class can help organize study time and keep track of whether a planned session has been completed.
 
 ### Which property is the most important? Why?
 
-The most important property is `durationMinutes` because it determines how long the student plans to study. It helps the student manage their available time and stay focused during the session.
+The most important property is "durationMinutes" because it determines how long the student plans to study. It helps the student manage their available time and stay focused during the session.
 
 ### Which method is the most useful? Why?
 
-The most useful method is `markCompleted()` because it allows the system to keep track of finished study sessions. This makes it easier for the student to monitor their progress.
+The most useful method is "markCompleted()" because it allows the system to keep track of finished study sessions. This makes it easier for the student to monitor their progress.

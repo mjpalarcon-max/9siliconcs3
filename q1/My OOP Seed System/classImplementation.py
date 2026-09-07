@@ -1,6 +1,5 @@
 ### `classImplementation.py`
 
-```python
 class StudySession:
     def __init__(self, subject, durationMinutes, priorityLevel, completed=False):
         self.subject = subject
@@ -27,8 +26,6 @@ class StudySession:
         print(f"Priority: {self.priorityLevel}/5")
         print(f"Status: {self.getStatus()}")
 
-
-# Two independent objects
 object1 = StudySession("Physics", 60, 5)
 object2 = StudySession("English", 45, 3)
 
@@ -52,4 +49,3 @@ print()
 
 print("Object 2:")
 object2.displayInfo()
-```

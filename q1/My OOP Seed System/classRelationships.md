@@ -2,6 +2,7 @@
 ## Previous Work
 
 [Part I - Classes and Objects](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classObjectUML.md)
+
 [Part II - Class Attributes and Methods](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classAttributesMethods.md)
 
 ## Existing Class

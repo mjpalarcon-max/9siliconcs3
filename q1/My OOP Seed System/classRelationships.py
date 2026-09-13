@@ -38,34 +38,22 @@ class StudyPlan:
         print(f"Study Plan: {self.planName}")
         print(f"Owner: {self.owner}")
         print("Sessions:")
-
         for session in self.sessions:
             print(
                 f"- {session.subject}: {session.durationMinutes} minutes "
                 f"(Priority {session.priorityLevel}/5, {session.getStatus()})"
             )
-
-
-# Create one StudyPlan object
+print("--- BEFORE RELATIONSHIP ---")
 studyPlan = StudyPlan("Quarter 1 Study Plan", "Student")
-
-# Create three StudySession objects
 session1 = StudySession("Physics", 90, 5, True)
 session2 = StudySession("Mathematics", 60, 5, False)
 session3 = StudySession("English", 45, 3, False)
 
-print("--- BEFORE RELATIONSHIP ---")
-print("StudyPlan object created:", studyPlan.planName)
-print("Number of sessions:", len(studyPlan.sessions))
-
-print("StudySession objects created:")
-print("-", session1.subject)
-print("-", session2.subject)
-print("-", session3.subject)
+print(f"StudyPlan: {studyPlan.planName} (Sessions tied: {len(studyPlan.sessions)})")
+print(f"Sessions available: {session1.subject}, {session2.subject}, {session3.subject}")
 
 print("\n--- BUILDING RELATIONSHIP ---")
-print("Adding StudySession objects to StudyPlan...")
-
+print("Adding/assigning related objects...")
 studyPlan.addSession(session1)
 studyPlan.addSession(session2)
 studyPlan.addSession(session3)
@@ -73,11 +61,7 @@ studyPlan.addSession(session3)
 print("\n--- AFTER RELATIONSHIP ---")
 studyPlan.displaySessions()
 
-print("\nAccessing data through the relationship:")
-
+print("\nRelated object(s):")
 for session in studyPlan.sessions:
-    print(
-        f"{studyPlan.planName} -> "
-        f"{session.subject} ({session.durationMinutes} minutes)"
-    )
-    
+    print(f"- {studyPlan.planName} contains -> {session.subject}")
+

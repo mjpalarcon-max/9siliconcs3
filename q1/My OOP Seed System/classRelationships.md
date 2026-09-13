@@ -6,18 +6,22 @@
 
 ## Existing Class
 Class: StudySession
+
 Description: The StudySession class represents a scheduled study session that a student can use to organize and track studying.
 
 ## New Related Class
 Class: StudyPlan
+
 Description: The StudyPlan class represents a student’s overall study plan. It stores the name and owner of the plan and keeps a list of StudySession objects belonging to the plan.
 
 ## Association
 Relationship: StudyPlan contains StudySession objects
+
 Explanation: This is a HAS-A relationship because a StudyPlan has study sessions as part of its schedule. The StudyPlan stores references to actual StudySession objects.
 
 ## Multiplicity
 Multiplicity: 1 : 0..*
+
 Explanation: One StudyPlan can contain zero or more StudySession objects. A plan may initially have no sessions, but it can contain many sessions as the student adds subjects and study activities.
 
 ## UML Class Relationship Diagram

@@ -3,6 +3,7 @@
 ## Previous Activities
 
 [Part I - Class Attributes and Methods](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classAttributesMethods.md)
+
 [Part II - Class Relationships](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classRelationships.md)
 
 
@@ -27,8 +28,11 @@ Explanation: A StudySession is a type of StudyActivity because every study sessi
 ![Inheritance](images/inheritanceDiagram.png)
 
 ## Composition/Aggregation
+
 Relationship:
-Explanation:
+Explanation: The relationship is aggregation because a StudyPlan contains StudySession objects, but those study sessions can exist independently of the study plan. The sessions are created separately and then added to the plan. Therefore, the study plan does not completely control the lifetime of the study-session objects.
+
+
 
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)

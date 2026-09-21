@@ -10,8 +10,9 @@
 
 ### 1. What classes currently exist in your system?
 
-**Class 1:** StudySession
-**Class 2:** StudyPlan
+Class 1: StudySession
+
+Class 2: StudyPlan
 
 ### 2. What problem or limitation exists in your current design?
 

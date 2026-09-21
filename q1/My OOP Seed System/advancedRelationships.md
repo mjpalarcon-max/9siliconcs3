@@ -2,6 +2,7 @@
 
 ## Previous Activities
 [classAttrib](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classAttributesMethods.md)
+
 [classRel](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classRelationships.md)
 
 ## Existing System Description:

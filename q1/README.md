@@ -8,14 +8,17 @@
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
-[View my Computational Thinking Exercise](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/ctskillsSiliconAlarcon.md)
+[View my Computational Thinking Exercise](q1/ctskillsSiliconAlarcon.md)
 
-[View my Chinese Zodiac](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/zodiacSiliconLN.md)
+[View my Chinese Zodiac](q1/zodiacSiliconLN.md)
 
-[ILA 3-1: Applying the Four Pillars of OOP](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/ila_oop.md)
+[ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
 
-[My OOP Seed System](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classObjectUML.md)
+[My OOP Seed System](q1/My OOP Seed System/classObjectUML.md)
 
-[My OOP Seed System - Part II](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classAttributesMethods.md)
+[My OOP Seed System - Part II](q1/My OOP Seed System/classAttributesMethods.md)
 
-[My OOP Seed System - Part III](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/classRelationships.md)
+[My OOP Seed System - Part III](q1/My OOP Seed System/classRelationships.md)
+
+[Advanced Class Relationships](q1/advancedRelationships.md)
+

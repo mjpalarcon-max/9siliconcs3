@@ -20,5 +20,5 @@
 
 [My OOP Seed System - Part III](q1/classRelationships.md)
 
-[Advanced Class Relationships](q1/advancedRelationships.md)
+[Advanced Class Relationships](q1/My OOP Seed System/advancedRelationships.md)
 

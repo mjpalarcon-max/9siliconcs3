@@ -20,5 +20,5 @@
 
 [My OOP Seed System - Part III](q1/classRelationships.md)
 
-[Advanced Class Relationships](q1/advancedRelationships.md)
+[Advanced Class Relationships](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q1/My%20OOP%20Seed%20System/advancedRelationships.md)
 

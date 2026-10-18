@@ -7,9 +7,7 @@
 ---
 
 # Quarter 1
-
 ## Activities
-
 ### Computational Thinking Skills
 
 [View my Computational Thinking Exercise](q1/ctskillsSiliconAlarcon.md)
@@ -29,12 +27,10 @@
 ---
 
 # Quarter 2
-
 ## Activities
-
 **Object-Oriented Programming**
 
-[SG8_Encapsulation](https://github.com)
+[SG8_Encapsulation](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/sg8_encapsulation.py)
 
 
 

@@ -55,7 +55,7 @@ pub1 = Publication(
     "Beyond the Galaxy",
     "Ethan Siegel"
 )
-book1 = Book("They Both Die at the End", "Adam Silvera", 368 to 389)
+book1 = Book("They Both Die at the End", "Adam Silvera", 389)
 mag1 = Magazine("Harper's Bazaar", "Various Authors", 159)
 print("Publication Information:")
 pub1.display_info()

@@ -52,10 +52,10 @@ class Magazine(Publication):
             print("The issue number must be positive.")
 
 pub1 = Publication(
-    "Journal of Experimental Psychology",
-    "Ratchiff, R. & Van Dongen, H."
+    "Beyond the Galaxy",
+    "Ethan Siegel"
 )
-book1 = Book("The Hobbit", "J.R.R. Tolkien", 310)
+book1 = Book("They Both Die at the End", "Adam Silvera", 368 to 389)
 mag1 = Magazine("National Geographic", "Various Authors", 202)
 print("Publication Information:")
 pub1.display_info()

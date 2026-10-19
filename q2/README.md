@@ -10,5 +10,6 @@
 **Object-Oriented Programming**
 
 [SG8_Encapsulation](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/sg8_encapsulation.py)
+
 [FA1-Library Management System](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/Library%20Management%20System.py)
 

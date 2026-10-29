@@ -29,9 +29,9 @@ class Monkey(Animal):
     def eat(self):
         return self.name + " eats bananas."
 
-lion = Lion("Simba")
-elephant = Elephant("Dumbo")
-monkey = Monkey("George")
+lion = Lion("Mane")
+elephant = Elephant("Mumbo")
+monkey = Monkey("Ace")
 animals = [lion, elephant, monkey]
 
 for animal in animals:

@@ -37,4 +37,5 @@ animals = [lion, elephant, monkey]
 for animal in animals:
     print(animal.make_sound())
     print(animal.eat())
+    print()
     

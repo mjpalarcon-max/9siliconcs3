@@ -38,7 +38,7 @@
 
 [Hospital Billing System](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/Enhanced%20Hospital%20Billing%20System.py)
 
-[Polymorphism: Activity 2](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/ACTIVITY%202_Polymorphism.py)
+[Polymorphism: Activity 2](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/ACTIVITY%202_Polymorphism.md)
 
 
 

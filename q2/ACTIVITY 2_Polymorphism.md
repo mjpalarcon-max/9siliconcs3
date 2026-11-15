@@ -10,7 +10,7 @@ The `Car` class needed to have the same method that the loop calls in the `Dog` 
 
 ---
 
-## 2. * [View Source Code](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/Zoo%20Management%20System.py)
+## 2. * [View Source Code](https://github.com/mjpalarcon-max/9siliconcs3/blob/main/q2/ACTIVITY%202_Polymorphism.py)
 
 ---
 
